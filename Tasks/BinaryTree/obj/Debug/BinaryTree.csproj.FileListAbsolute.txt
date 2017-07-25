@@ -1,0 +1,6 @@
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\BinaryTree\obj\Debug\BinaryTree.csprojResolveAssemblyReference.cache

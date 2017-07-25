@@ -1,0 +1,6 @@
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\EspTasks\bin\Debug\EspTasks.exe.config
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\EspTasks\bin\Debug\EspTasks.exe
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\EspTasks\bin\Debug\EspTasks.pdb
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\EspTasks\obj\Debug\EspTasks.csprojResolveAssemblyReference.cache
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\EspTasks\obj\Debug\EspTasks.exe
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\EspTasks\obj\Debug\EspTasks.pdb

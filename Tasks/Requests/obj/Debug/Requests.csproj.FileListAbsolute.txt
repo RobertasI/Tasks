@@ -1,0 +1,9 @@
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\Requests\bin\Debug\Requests.exe.config
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\Requests\bin\Debug\Requests.exe
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\Requests\bin\Debug\Requests.pdb
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\Requests\obj\Debug\Requests.csprojResolveAssemblyReference.cache
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\Requests\obj\Debug\Requests.exe
+C:\Users\Robertas\Documents\Visual Studio 2015\Projects\EspTasks\Requests\obj\Debug\Requests.pdb
+C:\Users\Robertas\Source\Repos\Tasks2\Tasks\Requests\bin\Debug\Requests.exe.config
+C:\Users\Robertas\Source\Repos\Tasks2\Tasks\Requests\obj\Debug\Requests.exe
+C:\Users\Robertas\Source\Repos\Tasks2\Tasks\Requests\obj\Debug\Requests.pdb
